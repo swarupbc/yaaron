@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071640126521",
+    "project_id": "yaaron2021",
+    "storage_bucket": "yaaron2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071640126521:android:f3a868eabdf6fd5c6fd9e8",
+        "android_client_info": {
+          "package_name": "com.sanscript.yaaron"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071640126521-h58vpm8rudhac5mvkjpg9lrlu6r83nml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2gzORc8QWdPCWSpDUPnclXDtIK7YdWtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071640126521-h58vpm8rudhac5mvkjpg9lrlu6r83nml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
